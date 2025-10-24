@@ -1,0 +1,14 @@
+QuestionID,QuestionText,QuestionType,Required,Order,FollowUpCondition,FollowUpQuestionID,StatModifier,Description
+Q1,What is your name?,text,true,1,,,,"Player's chosen character name"
+Q2,What is your level (age)?,number,true,2,,,,"Player's age - determines starting stats"
+Q3,What is your title (highest education level)?,select,true,3,,Q3a,,"Educational background that determines species options"
+Q3a,What is your species (educational background)?,select,true,4,Q3,,"K+1,"Educational field that influences character art and starting stats"
+Q4,How many years of work experience do you have?,number,true,5,,Q4a,,"Years of professional experience"
+Q4a,Is your work experience related to your educational background?,boolean,true,6,Q4,,,"Determines if guild selection is needed"
+Q4b,What guild (field) is your work experience in?,select,true,7,Q4a,,"C+1,"Work field when unrelated to education - influences character art"
+Q5,What is your current status?,select,true,8,,,,"Determines starting route and available progression paths"
+Q6,Do you have an inventory scroll (English test result)?,select,true,9,,,,"English proficiency level - affects available options"
+
+
+
+

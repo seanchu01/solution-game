@@ -1,0 +1,35 @@
+Type,ID,Name,Description,Value,StatType,MinValue,MaxValue,EndingWeight,Color,Icon
+Stat,Knowledge,Knowledge,Represents awareness, adaptability, planning, and understanding of systems,K,1,6,1,blue,brain
+Stat,Courage,Courage,Represents initiative, confidence, independence, and willingness to take action,C,1,6,1,red,sword
+Stat,Luck,Luck,Represents circumstance, serendipity, and openness to chance encounters,L,1,6,1,gold,clover
+Effect,K+1,Knowledge +1,Increases Knowledge stat by 1,K+1,,,1,blue,plus
+Effect,C+1,Courage +1,Increases Courage stat by 1,C+1,,,1,red,plus
+Effect,L+1,Luck +1,Increases Luck stat by 1,L+1,,,1,gold,plus
+Effect,K-1,Knowledge -1,Decreases Knowledge stat by 1,K-1,,,1,blue,minus
+Effect,C-1,Courage -1,Decreases Courage stat by 1,C-1,,,1,red,minus
+Effect,L-1,Luck -1,Decreases Luck stat by 1,L-1,,,1,gold,minus
+Tag,Study,Study Related,Events involving learning, research, or academic activities,,,1,blue,book
+Tag,Work,Work Related,Events involving employment, career, or professional activities,,,1,red,briefcase
+Tag,Social,Social Events,Events involving social interaction, networking, or community,,,1,green,users
+Tag,Cultural,Cultural Events,Events involving cultural adaptation, language, or local customs,,,1,purple,globe
+Tag,Fun,Fun Events,Light-hearted, humorous, or entertaining events,,,1,gold,smile
+Tag,Challenge,Challenge Events,Events that test the player's abilities or decision-making,,,1,orange,flag
+Category,Common,Common Events,Events available to all players regardless of route,,,1,gray,circle
+Category,Route,Route Specific,Events specific to a particular migration route,,,1,blue,route
+Category,Fun,Fun Events,Optional entertaining events for all players,,,1,gold,star
+Category,Ending,Ending Events,Final events that conclude the player's journey,,,1,purple,flag
+Route,OVS,Offshore,Pre-arrival planning and course selection route,,,1,teal,plane
+Route,STD,Student,Student visa holder route with course-specific events,,,1,blue,graduation-cap
+Route,WHV,Working Holiday,Working holiday visa holder route,,,1,green,backpack
+Route,PSW,Graduate,Post-study work visa holder route,,,1,purple,briefcase
+CourseType,ELICOS,English Language,English language courses only,,,1,orange,book
+CourseType,VET,Vocational,Vocational education and training courses,,,1,blue,wrench
+CourseType,HE,Higher Education,University and higher education courses,,,1,purple,graduation-cap
+EndingType,Strategic,Strategic Ending,Knowledge-dominant ending for analytical players,,,1,blue,compass
+EndingType,Adventurous,Adventurous Ending,Courage-dominant ending for action-oriented players,,,1,red,rocket
+EndingType,Serendipity,Serendipity Ending,Luck-dominant ending for flexible players,,,1,gold,sparkles
+EndingType,Harmonious,Harmonious Ending,Balanced ending for well-rounded players,,,1,green,balance
+
+
+
+

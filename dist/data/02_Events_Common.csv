@@ -1,0 +1,15 @@
+EventID,Title,Description,Choice1Text,Choice1Effect,Choice2Text,Choice2Effect,Choice3Text,Choice3Effect,Tags,Category,Priority
+COM001,Welcome to Australia,You've just arrived in Australia! The airport is bustling with international students and travelers. A friendly airport staff member approaches you with a welcome pack.,"Take the welcome pack and ask for directions to your accommodation","K+1","Politely decline and find your own way","C+1","Ask about local events and activities","L+1","Cultural,Social",Common,1
+COM002,Language Challenge,You're at a local café trying to order coffee. The barista speaks quickly and you're not sure you understood everything.,"Ask politely to repeat more slowly","K+1","Point to the menu and smile","C+1","Just nod and hope for the best","L+1","Cultural,Challenge",Common,1
+COM003,Call from Home,Your family calls to check how you're settling in. They're worried about you being so far away.,"Tell them everything is going great","C+1","Share your challenges honestly","K+1","Ask them to send care packages","L+1","Social,Challenge",Common,1
+COM004,Weekend Choice,It's your first weekend in Australia. You have several options for how to spend it.,"Visit the local library to study","K+1","Go to a local pub to meet people","C+1","Explore the city randomly","L+1","Social,Study",Common,1
+COM005,Weather Surprise,The weather forecast was wrong - it's pouring rain and you're not prepared. You need to get to an important appointment.,"Buy an umbrella and walk","C+1","Wait for the rain to stop","K+1","Call a ride and hope for the best","L+1","Challenge,Fun",Common,1
+COM006,Local Event,You see a poster for a local cultural festival happening this weekend. It looks interesting but you're not sure if you should go.,"Research the event online first","K+1","Just show up and see what happens","C+1","Ask a local friend about it","L+1","Cultural,Social",Common,1
+COM007,Study Group Invitation,A classmate invites you to join their study group. You're not sure if you have time or if it's worth it.,"Join and contribute actively","C+1","Observe first before participating","K+1","Suggest meeting at a café instead","L+1","Study,Social",Common,1
+COM008,Job Opportunity,A local business owner offers you a part-time job opportunity. It's not in your field but could help with expenses.,"Take the job for experience","C+1","Ask about career development opportunities","K+1","Consider it but ask for time to think","L+1","Work,Challenge",Common,1
+COM009,Vegemite Test,Australian friends invite you to try Vegemite for the first time. They're watching your reaction carefully.,"Try it bravely - for science!","L+1","Ask for advice on how to eat it","K+1","Make a joke about it first","C+1","Fun,Cultural",Common,1
+COM010,Transport Confusion,You're trying to figure out the public transport system to get to your destination. The map is confusing and you're running late.,"Ask a local for help","K+1","Figure it out yourself","C+1","Just get on any bus and hope","L+1","Challenge,Cultural",Common,1
+
+
+
+
