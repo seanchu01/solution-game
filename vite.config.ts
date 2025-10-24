@@ -10,6 +10,14 @@ export default defineConfig({
     host: true
   },
   build: {
-    outDir: 'dist'
-  }
+    outDir: 'dist',
+    sourcemap: false,
+    minify: 'esbuild',
+    rollupOptions: {
+      output: {
+        manualChunks: undefined
+      }
+    }
+  },
+  base: '/'
 })

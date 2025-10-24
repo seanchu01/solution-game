@@ -59,3 +59,4 @@ The game is designed for mobile devices with a 9:16 aspect ratio and vertical op
 
 ---
 **Ready to deploy!** Just drag this folder to GitHub and connect to Vercel.
+
