@@ -26,6 +26,7 @@
     "vite": "^7.1.7"
   },
   "dependencies": {
+    "@tailwindcss/postcss": "^4.1.16",
     "file-saver": "^2.0.5",
     "framer-motion": "^12.23.24",
     "papaparse": "^5.5.3",

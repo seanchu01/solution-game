@@ -17,7 +17,8 @@ export default defineConfig({
       output: {
         manualChunks: undefined
       }
-    }
+    },
+    target: 'es2020'
   },
   base: '/'
 })
