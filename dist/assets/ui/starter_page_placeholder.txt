@@ -1,6 +1,0 @@
-# Starter Page Art - SOLution Game
-# This file represents the starter page art showing a boy looking out a window at Australia
-# File: starter_page.png
-# Description: Retro pixel art with boy at window, Sydney Opera House, floating Australia map
-# Status: Ready for integration
-
